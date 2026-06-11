@@ -120,6 +120,7 @@ Security Copilot capacity units are treated as the consumption model for Copilot
 ## Design documents
 
 - [MVP Dashboard Contract](docs/mvp-dashboard-contract.md)
+- [Synthetic Data Schema](data/synthetic/schema.md)
 
 ## Intended audience
 
