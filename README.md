@@ -117,6 +117,10 @@ Security Copilot capacity units are treated as the consumption model for Copilot
 - [ ] Add optional Microsoft Graph connector design
 - [ ] Package a customer workshop/readiness guide
 
+## Design documents
+
+- [MVP Dashboard Contract](docs/mvp-dashboard-contract.md)
+
 ## Intended audience
 
 This repository is intended for customers, partners, technical stakeholders, and portfolio reviewers who want to see how AI/LLM workflows can be applied to endpoint management and security operations scenarios.
